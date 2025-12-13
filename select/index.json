@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Cuz I",
+  "base_artist": "Siip",
+  "createdAt": "2025-12-13T02:01:22.473548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cuz I Love You",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/01_Cuz_I_Love_You_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cuz I Love You",
+      "artist": "Lizzo",
+      "has_synced": false,
+      "path": "select/02_Cuz_I_Love_You_Lizzo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Potato Song (Cuz I Want To)",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/03_Potato_Song_(Cuz_I_Want_To)_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "'Cuz I Can",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/04_'Cuz_I_Can_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "'Cuz I Can",
+      "artist": "Pink",
+      "has_synced": true,
+      "path": "select/05_'Cuz_I_Can_Pink.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cuz I Can",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/06_Cuz_I_Can_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "hate u cuz i don't (feat. Bea Miller)",
+      "artist": "Louis The Child feat. Bea Miller",
+      "has_synced": true,
+      "path": "select/07_hate_u_cuz_i_don't_(feat._Bea_Miller)_Louis_The_Child_feat._Bea_Miller.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "hate u cuz i don't",
+      "artist": "Louis The Child",
+      "has_synced": true,
+      "path": "select/08_hate_u_cuz_i_don't_Louis_The_Child.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Potato Song (Cuz I Want To)",
+      "artist": "Ke$ha",
+      "has_synced": true,
+      "path": "select/09_Potato_Song_(Cuz_I_Want_To)_Ke$ha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "'Cuz I Can (Main Version)",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/10_'Cuz_I_Can_(Main_Version)_P!nk.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fired Cuz I Was Late",
+      "artist": "AronChupa",
+      "has_synced": true,
+      "path": "select/11_Fired_Cuz_I_Was_Late_AronChupa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fired Cuz I Was Late (Explicit)",
+      "artist": "AronChupa",
+      "has_synced": true,
+      "path": "select/12_Fired_Cuz_I_Was_Late_(Explicit)_AronChupa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cuz I Love You - Live From Glastonbury 2008",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/13_Cuz_I_Love_You_-_Live_From_Glastonbury_2008_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cuz I Love You (Live From Glastonbury 2008)",
+      "artist": "James Blunt",
+      "has_synced": true,
+      "path": "select/14_Cuz_I_Love_You_(Live_From_Glastonbury_2008)_James_Blunt.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cuz I Love You",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/15_Cuz_I_Love_You_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Ask Cuz I Don't Know",
+      "artist": "Jon Bellion",
+      "has_synced": false,
+      "path": "select/16_Don't_Ask_Cuz_I_Don't_Know_Jon_Bellion.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cuz I",
+      "artist": "Siip",
+      "has_synced": false,
+      "path": "select/pl_01_Cuz_I_Siip.txt"
+    }
+  ]
+}
